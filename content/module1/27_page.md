@@ -1,4 +1,5 @@
 ---
+title: 27_page
 date: 2020-10-15T18:47:12+03:00
 weight: 27
 draft: false

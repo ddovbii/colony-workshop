@@ -1,5 +1,5 @@
 ---
-title: "Developer environments	"
+title: "Developer environments"
 date: 2020-10-15T18:47:14+03:00
 weight: 41
 draft: false
