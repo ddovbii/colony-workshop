@@ -6,3 +6,5 @@ draft: false
 ---
 
 ![02_page](/images/prerequisite/02_page.png)
+![02_page](/images/prerequisite/03_page.png)
+

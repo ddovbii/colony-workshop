@@ -10,4 +10,4 @@ weight: 9
 
 * Module 3: You are a developer and will use Jenkins to deploy your application environment from the blueprint catalog using the Colony REST API
 
-* Module 4: You are the IT Ops manager and want to deploy the latest version of the promotion manager application to production. Explore strategies to gradually introduce the new features to a sub-population of users.
+* Module 4: You are the devops engineer and would like to use the latest AWS DocumentDB service for your application blueprint.

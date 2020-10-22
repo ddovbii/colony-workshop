@@ -1,8 +1,10 @@
 ---
-title: 25_page
+title: "Connect your artifact repository to Colony"
 date: 2020-10-15T18:47:12+03:00
 weight: 25
 draft: false
 ---
 
  ![25_page](/images/module1/25_page.png)
+ ![25_page](/images/module1/26_page.png)
+ ![25_page](/images/module1/27_page.png)
