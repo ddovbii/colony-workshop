@@ -1,7 +1,7 @@
 ---
 title: "Dev environment​"
 date: 2020-10-15T18:47:14+03:00
-weight: 51
+weight: 41
 draft: false
 ---
 
