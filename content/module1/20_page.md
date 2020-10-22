@@ -6,4 +6,7 @@ draft: false
 ---
 
 ![20_page](/images/module1/20_page.png)
+![20_page](/images/module1/21_page.png)
+
+
 
