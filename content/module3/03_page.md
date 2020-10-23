@@ -5,6 +5,6 @@ weight: 03
 draft: false
 ---
 
-This workshop module will call the create SandBox , Get Sandbox details and Terminate Sandbox API methods
+This workshop module will call the __Create SandBox__ , __Get Sandbox details__ and __Terminate Sandbox__ API methods
 
 ![03_page](/images/module3/03_page.png)
