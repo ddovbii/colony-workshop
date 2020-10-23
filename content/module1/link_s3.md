@@ -7,4 +7,9 @@ weight: 12
 * This is where you will store your promotion app application artifacts.
 * In this step, you will use AWS S3 as a repository
 
-__NOTE__: Other repositories are natively supported by Colony, such as Jfrog Artifactory
+---
+**NOTE**
+
+Other repositories are natively supported by Colony, such as Jfrog Artifactory
+
+---
