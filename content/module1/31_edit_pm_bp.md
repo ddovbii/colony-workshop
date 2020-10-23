@@ -1,7 +1,7 @@
 ---
 title: "Edit the promotion manager blueprint"
 date: 2020-10-15T18:47:14+03:00
-weight: 40
+weight: 31
 draft: false
 ---
 

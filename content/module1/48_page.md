@@ -1,7 +1,7 @@
 ---
 title: "Uncomment the #instances: 3 for the UI tier​"
 date: 2020-10-15T18:47:14+03:00
-weight: 48
+weight: 38
 draft: false
 ---
 

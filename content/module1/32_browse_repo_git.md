@@ -1,7 +1,7 @@
 ---
 title: "Browse to the blueprint directory in Git​"
 date: 2020-10-15T18:47:14+03:00
-weight: 42
+weight: 32
 draft: false
 ---
 
