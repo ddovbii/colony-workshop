@@ -9,3 +9,5 @@ weight: 7
 * You have heard through a DevOps colleague that Quali can help you get everything you need in the fraction of the time it would take so you decide to take Quali for a test spin and see how it stacks up.
 
 * Gourmet Inc management also wants your approach to be applicable to other applications within the company in the future, as well as be compliant to PCI for credit card payment.
+
+ ![60_background](/images/intro/Gourmet_inc_logo.png)
