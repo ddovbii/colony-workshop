@@ -6,8 +6,8 @@ weight: 8
 
 It’s as easy as “1-2-3” (as they said):
 
-* Create your Colony Account
+1. Create your Colony Account
 
-* Link your AWS cloud account
+2. Link your AWS cloud account
 
-* Link you GitHub account
+3. Link you GitHub account
