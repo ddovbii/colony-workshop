@@ -5,8 +5,16 @@ draft: false
 weight: 3
 ---
 
-(*) if you don’t have a GitHub account, create one first"
+Note: if you don’t have a GitHub account, [create one first](https://github.com/)
 
-### 1. Navigate to the [Promotion manager repo](https://github.com/QualiSystemsLab/aws-workshop-colony)
+1. Navigate to the [Promotion manager repo](https://github.com/QualiSystemsLab/aws-workshop-colony)
 
 ![fork_bp](/images/module1/fork_bp.png)
+
+2. Fork to your Git account repo
+
+![fork_bp](/images/module1/repo.png)
+
+3. You are now ready to link your blueprint repo to Colony
+
+![fork_bp](/images/module1/ready_to_link.png)
