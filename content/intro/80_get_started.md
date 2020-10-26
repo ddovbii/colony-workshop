@@ -12,6 +12,8 @@ It’s as easy as “1-2-3” (as they said):
 
 2. Link your AWS cloud account
 
-![80_page](/images/intro/Octocat.png)
+![80_page](/images/intro/aws_logo.png)
 
 3. Link you GitHub account
+
+![80_page](/images/intro/Octocat.png)
