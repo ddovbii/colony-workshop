@@ -1,8 +1,19 @@
-+++
-title = "Pre-requisite"
-date = 2020-10-16T10:31:31+03:00
-weight = 2
-chapter = true
-+++
+---
+title: "Get Started"
+date: 2020-10-12T20:35:36+03:00
+weight: 8
+---
 
-![01_page](/images/prerequisite/01_page.png)
+It’s as easy as “1-2-3” (as they said):
+
+1. Create your Colony Account
+
+![80_page](/images/intro/colony_logo.png)
+
+2. Link your AWS cloud account
+
+![80_page](/images/intro/aws_logo.png)
+
+3. Link you GitHub account
+
+![80_page](/images/intro/Octocat.png)
