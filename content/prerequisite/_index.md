@@ -1,10 +1,9 @@
----
++++
 title: "Get Started"
 date: 2020-10-12T20:35:36+03:00
-weight: 8
----
-
-It’s as easy as “1-2-3” (as they said):
+weight: 3
+chapter = true
++++
 
 1. Create your Colony Account
 
@@ -14,6 +13,3 @@ It’s as easy as “1-2-3” (as they said):
 
 ![80_page](/images/intro/aws_logo.png)
 
-3. Link you GitHub account
-
-![80_page](/images/intro/Octocat.png)

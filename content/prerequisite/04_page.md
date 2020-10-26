@@ -1,5 +1,5 @@
 ---
-title: "Select AWS/EC2 and follow the instructions to Connect your Cloud Account to Colony"
+title: "Connect your AWS Cloud Account to Colony"
 date: 2020-10-16T10:35:57+03:00
 weight: 04
 draft: false
