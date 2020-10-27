@@ -7,4 +7,4 @@ chapter = true
 
 # Module 1
 
-### You are the devops engineer, and you need to create your blueprint for the latest version of the promotion manager application architecture and publish to the blueprint catalog.
+### You are the devops engineer, and you will create a blueprint to enable your developers and testers to test the latest version of the promotion manager application.

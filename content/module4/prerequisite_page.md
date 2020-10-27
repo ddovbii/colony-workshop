@@ -1,7 +1,7 @@
 ---
 title: "Prerequisites"
 date: 2020-10-15T18:47:10+03:00
-weight: 2
+weight: 1
 ---
 
 * Clone promotion application public repository to your GitHub repo
