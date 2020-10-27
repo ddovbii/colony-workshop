@@ -13,3 +13,4 @@ chapter = true
 
 ![80_page](/images/intro/aws_logo.png)
 
+3\. Deploy your first sandbox

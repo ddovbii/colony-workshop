@@ -1,5 +1,5 @@
 +++
-title = "Module 3"
+title = "Module 3: Deploy your application environment using Jenkins and Colony REST API"
 date = 2020-10-15T18:12:02+03:00
 weight = 5
 chapter = true

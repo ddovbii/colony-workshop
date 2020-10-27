@@ -1,5 +1,5 @@
 +++
-title = "Module 4"
+title = "Module 4: Modify your blueprint to use an AWS native service"
 date = 2020-10-15T18:12:05+03:00
 weight = 6
 chapter = true

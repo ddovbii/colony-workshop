@@ -4,9 +4,11 @@ date: 2020-10-12T20:35:51+03:00
 weight: 9
 ---
 
-* __Module 1__: You are the devops engineer, and you are going to deploy your first blueprint environment to a sandbox.
+* __Get Started__: You are the administrator, and you will create a Colony trial account, link your AWS account and deploy a sample environment to test your setup.
 
-* __Module 2__: You need to provide some application environments to your developer and performance tester for the latest version of your promotion manager code and optimize the infrastructure layout for these users.
+* __Module 1__: You are the devOps engineer and you need to provide some application environments to your developer and performance tester for the latest version of your promotion manager code and optimize the infrastructure layout for these users.
+
+* __Module 2__: You are the developer and you will deploy the sandbox that the devOps engineer created for you to test the latest version of your code.
 
 * __Module 3__: You will use Jenkins to automatically deploy your application environment from the blueprint catalog using the Colony REST API
 
