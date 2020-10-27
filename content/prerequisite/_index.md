@@ -1,7 +1,7 @@
 +++
-title: "Get Started"
-date: 2020-10-12T20:35:36+03:00
-weight: 3
+title = "Get Started"
+date = 2020-10-12T20:35:36+03:00
+weight = 3
 chapter = true
 +++
 
