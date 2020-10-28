@@ -15,6 +15,10 @@ weight: 7
 
 ![07_page](/images/module1/select_gh.png)
 
-4\. Click Connect. Your Blueprint repository is now listed
+4\. Click Connect. Your blueprint repository is now connected
 
 ![07_page](/images/module1/click_connect.png)
+
+5\. You can browse the promotion app blueprints from the catalog
+
+![07_page](/images/module1/catalog.png)
