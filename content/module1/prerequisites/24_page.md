@@ -6,6 +6,6 @@ draft: false
 ---
 
  ![24_page](/images/module1/24_page.png)
- ![25_page](/images/module1/25_page.png)
- ![26_page](/images/module1/26_page.png)
- ![27_page](/images/module1/27_page.png)
+ ![24_page](/images/module1/25_page.png)
+ ![24_page](/images/module1/26_page.png)
+ ![24_page](/images/module1/27_page.png)
