@@ -1,5 +1,5 @@
 ---
-title: "Developer environments"
+title: "Create a promotion application blueprint for Developers"
 date: 2020-10-22T15:07:26+03:00
 draft: false
 weight: 28
