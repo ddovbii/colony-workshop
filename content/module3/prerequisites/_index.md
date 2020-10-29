@@ -1,6 +1,6 @@
 ---
 title: "Prerequisites"
-date: 2020-10-15T18:47:10+03:00
+date: 2020-10-29T09:44:46+02:00
 weight: 1
 ---
 
