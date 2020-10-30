@@ -1,8 +1,16 @@
 ---
-title: "Create a new “Ops-Tools” space in Colony"
+title: "Create and Configure a new “Ops-Tools” space in Colony"
 date: 2020-10-16T14:20:26+03:00
 weight: 2
 draft: false
 ---
 
+Create a new “Ops-Tools” space in Colony
  ![06_page](/images/module3/06_page.png)
+
+You will use this space to manage Ops platforms such as Jenkins 
+ ![06_page](/images/module3/07_page.png)
+
+Add your AWS cloud account to the Ops-Tools space
+![06_page](/images/module3/08_page.png)
+

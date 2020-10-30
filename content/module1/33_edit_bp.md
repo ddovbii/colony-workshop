@@ -4,5 +4,11 @@ date: 2020-10-15T18:47:14+03:00
 weight: 33
 draft: false
 ---
+1\. Edit promotion-manager-dev.yaml. You can find this file in the Git directory of your repo:
+aws-workshop-colony/blueprints/
 
-![43_page](/images/module1/43_page.png)
+![43_page](/images/module1/edit_bp_git.png)
+![43_page](/images/module1/pm_bp_view.png)
+
+2\. For each application tier, uncomment #target: vm1​
+![44_page](/images/module1/44_page.png)
