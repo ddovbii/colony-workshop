@@ -6,3 +6,5 @@ draft: false
 ---
 
 ![02_page](/images/module3/02_page.png)
+This workshop module will call the Create SandBox , Get Sandbox details and Terminate Sandbox API methods
+![02_page](/images/module3/03_page.png)

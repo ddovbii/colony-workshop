@@ -5,5 +5,14 @@ weight: 32
 draft: false
 ---
 
-![32_page_1](/images/module3/32_page_1.png)
-![32_page_2](/images/module3/32_page_2.png)
+Navigate to the Sandbox Environment of the Ops-Tools space in Colony and click on "New Sandbox".
+![32_page](/images/module3/32_page_2.png)
+Select Jenkins blueprint and click Next
+![32_page](/images/module3/33_page.png)
+Enter required parameters. Enter Trial as the Space Name. Other parameters (role and token) were generated in the previous steps.
+![32_page](/images/module3/34_page.png)
+Launch Sandbox
+![32_page](/images/module3/35_page.png)
+Once the sandbox deployment is complete, click on the web “quick link” to access the Jenkins instance. 
+![32_page](/images/module3/36_page.png)
+Congratulations!
