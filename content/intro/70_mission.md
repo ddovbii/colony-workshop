@@ -10,4 +10,4 @@ weight: 7
 
 * Gourmet Inc management also wants your approach to be applicable to other applications within the company in the future, as well as be compliant to PCI for credit card payment.
 
- ![60_background](/images/intro/Gourmet_inc_logo.png)
+ ![60_background](/images/intro/shoppingcart.png)
