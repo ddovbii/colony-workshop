@@ -11,3 +11,5 @@ weight: 3
 * __Application Value Stream__:Infrastructure automation from dev to production (CI/CD)
 
 * __Self-Service__:Launch scripting-free automation via intuitive UI, your CI/CD tools, or ChatOps​
+
+ ![30_page](/images/intro/Blueprint.png)
