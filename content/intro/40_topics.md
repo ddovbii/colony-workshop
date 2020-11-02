@@ -4,10 +4,10 @@ date: 2020-10-12T20:33:45+03:00
 weight: 4
 ---
 
-* A simple approach to model and deploy complex applications in AWS, all the way to production.
+* A simple approach to model and deploy complex applications in AWS.
 
 * How to increase your developer's productivity with self-service and DevOps ready integrations.
 
-* How to control your cloud cost through automation and scale your DevOps initiatives with governance.
+* How to control your cloud cost through automation.
 
  ![40_page](/images/intro/graduate.png)
