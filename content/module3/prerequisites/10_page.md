@@ -9,6 +9,6 @@ You will use the following public repository: https://github.com/QualiSystemsLab
  ![10_page](/images/module3/10_page.png)
  ![10_page](/images/module3/11_page.png)
  The Jenkins repository is now listed
- ![10_page](/images/module3/12_page.png)
+ ![10_page](/images/module3/12_page_1.png)
  Publish Jenkins Blueprint: toggle the slider
  ![10_page](/images/module3/16_page.png)
