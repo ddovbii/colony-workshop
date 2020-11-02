@@ -25,6 +25,26 @@ draft: false
 ![03_page](/images/module4/06_page.png)
 
 4\. Replace this section with the following code:
-![03_page](/images/module4/07_page.png)
+```
+- promotions-manager-api:      
+      depends_on: 
+        - promotions-manager-docdb
+      input_values:
+        - API_PORT: $API_PORT
+        - AWS_INSTANCE_TYPE: $AWS_INSTANCE_TYPE
+        - DATABASE_HOST: $outputs.promotions-manager-docdb.connection_string
+        - RELEASE_NUMBER: $RELEASE_NUMBER
+        - API_BUILD_NUMBER: $API_BUILD_NUMBER
+  
+services:
+  - promotions-manager-docdb:
+      input_values:
+        - USERNAME: $DB_USERNAME
+        - PASSWORD: $DB_PASSWORD
+        - SANDBOX_ID: ${SandboxID}
+
+debugging:
+  availability: on
+```
 
 5\. Save and Commit your change to your Git repo
