@@ -46,5 +46,7 @@ services:
 debugging:
   availability: on
 ```
+Your new blueprint is now visible in Colony 
+![03_page](/images/module4/09_page.png)
 
 5\. Save and Commit your change to your Git repo
