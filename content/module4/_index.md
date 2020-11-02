@@ -9,5 +9,6 @@ chapter = true
 
 ### You are the DevOps engineer and would like to use the latest AWS DocumentDB service instead of MongoDB for your promotion application
 
-* You will make a simple change to your blueprint to include a predefined Terraform module.
+* You will make a simple change to your blueprint to include a predefined Terraform module located in the terraform folder of your blueprint repository
+![01_page](/images/module4/git_tfmodule.png)
 * Finally, you will publish your blueprint and test your new configuration in a sandbox.

@@ -1,8 +1,30 @@
 ---
-title: "Using your favorite editor, edit the blueprint"
+title: "update your blueprint to use the Terraform module"
 date: 2020-10-21T11:44:34+03:00
 weight: 03
 draft: false
 ---
 
+1\. Remove mongodb artifact 
+![03_page](/images/module4/04_page_1.png)
+![03_page](/images/module4/04_page_2.png)
 
+2\. Update input parameters
+* Locate following block of code (inputs) in the blueprint:
+![03_page](/images/module4/05_page_1.png)
+* Append the following block of code to it:
+```
+- DB_USERNAME: adminuser
+- DB_PASSWORD: 
+    display_style: masked
+    description: please set the master database password
+    default_value: Welcome1234567+
+```
+
+3\. Locate the “promotion-manager-api” and “mongodb” sections of code in the blueprint. 
+![03_page](/images/module4/06_page.png)
+
+4\. Replace this section with the following code:
+![03_page](/images/module4/07_page.png)
+
+5\. Save and Commit your change to your Git repo
