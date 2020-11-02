@@ -1,5 +1,5 @@
 ---
-title: "Copy blueprint"
+title: "Prerequisites"
 date: 2020-10-21T11:44:33+03:00
 weight: 02
 draft: false
