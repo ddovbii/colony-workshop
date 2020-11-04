@@ -4,7 +4,7 @@ date: 2020-10-12T20:33:45+03:00
 weight: 4
 ---
 
-### * simple approach to model and deploy complex applications in AWS.
+### * A simple approach to model and deploy complex applications in AWS.
 
 ### * How to increase your developer's productivity with self-service and DevOps ready integrations.
 
