@@ -5,7 +5,7 @@ weight: 1
 ---
 
 ### Everyone in the organization (developers, QA,ITOps, DevOps) needs applications environments in the cloud
-### The problem is that expertise is a bottleneck: cloud experts are in high demand, but not all developers are cloud experts.
+### The problem is that expertise is a __bottleneck__: cloud experts are in high demand, but not all developers are cloud experts.
 ### This creates islands of automation with inconsistencies across the organization. It also results in insufficient guardrails around security/compliance and cost.
 
  ![10_page](/images/intro/Intro_Pg10.png)
