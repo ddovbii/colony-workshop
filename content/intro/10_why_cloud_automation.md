@@ -1,11 +1,11 @@
 ---
-title: "Why Cloud Automation at Scale"
+title: "Why Cloud Automation at scale"
 date: 2020-10-12T20:08:19+03:00
 weight: 1
 ---
 
 ### Everyone in the organization (developers, QA,ITOps, DevOps) needs applications environments in the cloud
-The Problem is that expertise is a bottleneck: cloud experts are in high demand, but not all developers are cloud experts.
+The problem is that expertise is a bottleneck: cloud experts are in high demand, but not all developers are cloud experts.
 This creates islands of automation with inconsistencies across the organization. It also results in insufficient guardrails around security/compliance and cost.
 
  ![10_page](/images/intro/Intro_Pg10.png)

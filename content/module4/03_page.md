@@ -1,5 +1,5 @@
 ---
-title: "update your blueprint to use the Terraform module"
+title: "Update your blueprint to use the Terraform module"
 date: 2020-10-21T11:44:34+03:00
 weight: 03
 draft: false

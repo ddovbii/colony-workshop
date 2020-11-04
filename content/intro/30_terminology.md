@@ -1,5 +1,5 @@
 ---
-title: "Terminology: get familiar with the Lingo"
+title: "Terminology: get familiar with the lingo"
 date: 2020-10-12T20:33:20+03:00
 weight: 3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Learn More"
+title: "Learn more"
 date: 2020-10-16T14:20:30+03:00
 weight: 48
 draft: false
