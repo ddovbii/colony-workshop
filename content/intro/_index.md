@@ -5,6 +5,6 @@ weight = 1
 chapter = true
 +++
 
-# Welcome to Quali's DevOps workshop!
+# Welcome to Quali's Cloud Automation workshop!
 
 ![intro](/images/intro/Welcome.png)
