@@ -5,7 +5,7 @@ weight = 2
 chapter = true
 +++
 
-1\. Create your Colony Account
+1\. Create your[Colony Account](https://app.cloudshellcolony.com/sign_up)
 
 ![80_page](/images/intro/colony_logo.png)
 
