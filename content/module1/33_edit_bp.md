@@ -12,3 +12,7 @@ aws-workshop-colony/blueprints/
 
 2\. For each application tier, uncomment #target: vm1​
 ![44_page](/images/module1/44_page.png)
+
+3\. Commit your changes (Git)
+![45_page](/images/module1/45_page.png)
+
