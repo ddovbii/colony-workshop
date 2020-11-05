@@ -5,6 +5,6 @@ weight = 1
 chapter = true
 +++
 
-# Welcome to Quali's Cloud Automation workshop!
+# Welcome to Quali's Cloud Automation Workshop!
 
 ![intro](/images/intro/Welcome.png)
