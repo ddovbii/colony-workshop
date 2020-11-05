@@ -5,6 +5,6 @@ weight = 1
 chapter = true
 +++
 
-# Intro
+# Welcome to Quali's CloudShell Colony workshop!
 
-{{% children showhidden="false" %}}
+![intro](/images/intro/Welcome.png)

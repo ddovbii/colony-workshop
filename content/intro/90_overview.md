@@ -13,3 +13,5 @@ weight: 9
 * __Module 3__: You will use Jenkins to automatically deploy your application environment from the blueprint catalog using the Colony REST API.
 
 * __Module 4__: As a devOps engineer, you will use the latest AWS DocumentDB service for your application blueprint.
+
+ ![30_page](/images/intro/moduleoverview.png)

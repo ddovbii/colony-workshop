@@ -8,4 +8,4 @@ weight: 6
 
 ### This is a new user experience for their Foody shoppers, and this upgrade should significantly impact sales for the quarter. Quality is paramount.
 
- ![60_background](/images/intro/Gourmet_inc_logo.png)
+ ![60_background](/images/intro/Gourmet_inc_logo_intro.png)
