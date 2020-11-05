@@ -1,5 +1,5 @@
 ---
-title: "Sign up for a Colony trial account"
+title: "Sign up for a [Colony trial account] (https://app.cloudshellcolony.com/sign_up)"
 date: 2020-10-16T10:35:57+03:00
 weight: 02
 draft: false
