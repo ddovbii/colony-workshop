@@ -7,7 +7,6 @@ chapter = true
 
 # Summary
 
-Congratulation for Completing the CloudShell Colony Workshop!
 ![17_page](/images/summary/Congratulations.png)
 In Summary, you have learned:
 
