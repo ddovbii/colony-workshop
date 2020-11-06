@@ -4,7 +4,7 @@ date: 2020-10-16T14:20:27+03:00
 weight: 17
 draft: false
 ---
-In this step, we will generate a token that will be used as a parameter when deploying Jenkins. This will configure the Jenkins instance to connect to CloudShell Colony.
+In this step, we will generate a token that will be used as a parameter when deploying Jenkins. This will enable the Jenkins instance to connect to CloudShell Colony and run the REST API to deploy your promotion manager application.
 
 Navigate to Settings > Integrations and click Connect under the Jenkins icon 
  ![17_page](/images/module3/17_page.png)

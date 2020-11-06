@@ -8,6 +8,8 @@ draft: false
 aws-workshop-colony/blueprints/
 
 ![43_page](/images/module1/edit_bp_git.png)
+__Note__: this blueprint assumes you have permissions to deploy in “eu-west-1” region with your AWS account, if not update the value in the clouds section.
+
 ![43_page](/images/module1/pm_bp_view.png)
 
 2\. For each application tier, uncomment #target: vm1​

@@ -9,5 +9,5 @@ Navigate to Settings
 Select AWS S3
 ![13_page](/images/module3/14_page.png)
 Select from the pull down the cloud provider (AWS) and the S3 repo you previously created in Module 1 
-![13_page](/images/module3/15_page.png)
+![13_page](/images/module3/15_page_1.png)
 

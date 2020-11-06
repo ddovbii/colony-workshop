@@ -6,4 +6,5 @@ draft: false
 ---
 
 ### The first step will be for you to automatically deploy and configure Jenkins using CloudShell Colony.
-### This step would typically be performed by a platform Ops/Tools team ahead of time.
+__Note__: This step would typically be performed by the Gourmet Inc. platform Ops/Tools team ahead of time.
+Complete information about this setup is available in the [Readme](https://github.com/QualiSystemsLab/jenkins-colony/blob/master/README.md) file of the Github repository. 

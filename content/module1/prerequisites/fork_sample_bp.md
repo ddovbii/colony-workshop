@@ -6,6 +6,7 @@ weight: 3
 ---
 
 Colony leverages GitHub or BitBucket as version control for blueprint. In this workshop, we are using GitHub.
+
 __Note__: If you don’t have a GitHub account, [create one first](https://github.com/)
 
 

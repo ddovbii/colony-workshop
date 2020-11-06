@@ -4,6 +4,7 @@ date: 2020-10-16T14:20:28+03:00
 weight: 27
 draft: false
 ---
+In the next few steps, you will create an S3 role that will give Jenkins write permission to upload the promotion manager application build to the artifact repository. The role value will be used as an input to the Jenkins Sandbox deployment.
 
 Navigate to Services: Cloud Formation to Create Stack
 ![27_page](/images/module3/27_page.png)
