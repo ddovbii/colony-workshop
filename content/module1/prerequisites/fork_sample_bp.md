@@ -5,7 +5,13 @@ draft: false
 weight: 3
 ---
 
-Note: if you don’t have a GitHub account, [create one first](https://github.com/)
+Colony leverages GitHub or BitBucket as version control for blueprint. In this workshop, we are using GitHub.
+---
+**NOTE**
+
+If you don’t have a GitHub account, [create one first](https://github.com/)
+
+---
 
 1\. Navigate to the [Promotion manager repo](https://github.com/QualiSystemsLab/aws-workshop-colony)
 

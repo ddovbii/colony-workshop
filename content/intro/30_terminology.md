@@ -12,4 +12,6 @@ weight: 3
 
 * __Self-Service__:Launch scripting-free automation via intuitive UI, your CI/CD tools, or ChatOps​
 
+*__Artifacts__: Application package (build) that will be installed on the infrastructure. Typically stored in an artifact repository.
+
  ![30_page](/images/intro/Blueprint.png)
