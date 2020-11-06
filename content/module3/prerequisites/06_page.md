@@ -6,6 +6,7 @@ draft: false
 ---
 
 Create a new “Ops-Tools” space in Colony
+ ![06_page](/images/module3/addspace.png)
  ![06_page](/images/module3/06_page.png)
 
 You will use this space to manage Ops platforms such as Jenkins 
