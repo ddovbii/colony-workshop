@@ -1,5 +1,5 @@
 ---
-title: "Why Cloud Automation at scale"
+title: "Why Cloud Automation at Scale"
 date: 2020-10-12T20:08:19+03:00
 weight: 1
 ---
