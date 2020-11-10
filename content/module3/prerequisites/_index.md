@@ -9,10 +9,4 @@ __Note__: This step would typically be performed ahead of time. CloudShell Colon
 
 Complete information about this setup is available in the [Readme](https://github.com/QualiSystemsLab/jenkins-colony/blob/master/README.md) file of the Github repository. 
 
-* Create a new Ops-tools space in Colony
-* Connect your AWS account and S3 bucket artifact repository to the Ops-tools space
-* Connect the Jenkins blueprint repository to Colony
-* Create a IAM role that will have permission to write to your S3 bucket
-* Link your artifact repo to Colony
-* Generate a token for Jenkins integration with Colony
-* Deploy Jenkins from Colony
+In order to deploy Jenkins from CloudShell Colony, you will first create a new "Space" that will model the Ops platform team workspace. You will then generate a couple of input parameters required for Jenkins to work in the context of your promotion manager application and CloudShell Colony: a IAM role to upload your artifacts to the S3 repo, and a token that allows Jenkins to run the CloudShell Colony REST API.
