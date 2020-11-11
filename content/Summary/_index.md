@@ -16,3 +16,4 @@ In Summary, you have learned:
 * How to consume AWS services using Terraform modules
 * How control cloud costs with automated deprovisioning.
 
+Thanks to your efforts, Gourmet Inc is now well positioned for the holiday season, and confident they will offer an outstanding user experience to their customers. Based on the success of this project, your DevOps team is going to use CloudShell Colony to release the rest of Gourmet's Inc. application portfolio. 
