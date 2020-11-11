@@ -15,4 +15,5 @@ Launch Sandbox
 ![32_page](/images/module3/35_page.png)
 Once the sandbox deployment is complete, click on the web “quick link” to access the Jenkins instance. 
 ![32_page](/images/module3/36_page.png)
-Congratulations!
+Congratulations! You've now automatically deployed an instance of Jenkins that can launch any blueprint configured in Colony! 
+As the Ops team manager of Gourmet Inc, you may also use CloudShell Colony to manage the new releases of the Jenkins platform as they become available.
