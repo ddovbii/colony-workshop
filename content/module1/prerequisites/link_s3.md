@@ -4,8 +4,8 @@ date: 2020-10-15T18:47:11+03:00
 weight: 12
 ---
 
-* This is where you will store your promotion app application artifacts.
-* In this step, you will create and use an AWS S3 bucket as a repository
+* The S3 repository will be used to store your promotion manager app application artifacts.
+* In the next few steps, you will create an AWS S3 bucket, upload the promotion manager artifacts and connect your repository to CloudShell Colony.
 
 ---
 **NOTE**
