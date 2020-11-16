@@ -5,7 +5,7 @@ weight: 06
 draft: false
 ---
 
-In this step, you will deploy a sandbox from the sample blueprint repository. This will enable to test your setup and get familiar with the Colony UI. As a reminder, a __sandbox__ is a temporary environment that is automatically terminated once it time expires (ephemeral). 
+In this step, you will deploy a sandbox from the sample blueprint repository. This will enable to test your setup and get familiar with the Colony UI. As a reminder, a __sandbox__ is a temporary environment that is automatically terminated once its time expires (ephemeral). 
 
 1\. Browse the Sandbox environment tab and click on __New Sandbox__.
  ![06_page](/images/prerequisite/new_sandbox.png)
