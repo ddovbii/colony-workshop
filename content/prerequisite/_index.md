@@ -9,7 +9,7 @@ chapter = true
 
 ![80_page](/images/intro/colony_logo.png)
 
-2\. Link your AWS cloud account
+2\. Link your AWS cloud account to CloudShell Colony.
 
 ![80_page](/images/intro/aws_logo.png)
 
