@@ -8,6 +8,8 @@ weight: 3
 
 * __Environment:__ Includes cloud infrastructure, containers, data, application
 
+* __Sandbox:__ Temporary environment that is automatically terminated once it time expires (ephemeral).
+
 * __Application Value Stream:__ Infrastructure automation from dev to production (CI/CD)
 
 * __Self-Service:__ Launch scripting-free automation via intuitive UI, your CI/CD tools, or ChatOps​
