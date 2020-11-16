@@ -16,8 +16,5 @@ __Note__: If you don’t have a GitHub account, [create one first](https://githu
 
 2\. Fork to your Git account repo
 
-![fork_bp](/images/module1/fork_repo.png)
-
-3\. You are now ready to link your blueprint repo to Colony
-
 ![fork_bp](/images/module1/ready_to_link.png)
+
