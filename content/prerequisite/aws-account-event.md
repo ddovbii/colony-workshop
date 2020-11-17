@@ -19,7 +19,7 @@ For an AWS hosted event, you are provided with an AWS account through the AWS Ev
 
 5\. Then select __Open AWS Console__.
 
-6.\ This workshop supports the region __eu-west-1__ by default. Select this region in your console.
+6\. This workshop supports the region __eu-west-1__ by default. Select this region in your console.
 ![02_page](/images/prerequisite/region.png)
 
 You can leave the AWS console opened. 
