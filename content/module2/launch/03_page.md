@@ -5,8 +5,8 @@ weight: 03
 draft: false
 ---
 
-Navigate to the __Sandbox Environments__ menu on the left panel of your screen and Click on __New Sandbox__.
+1\. Navigate to the __Sandbox Environments__ menu on the left panel of your screen and Click on __New Sandbox__.
 ![03_page](/images/module2/02_page.png)
 
-Select the __promotions-manager-all-aws-dev__ blueprint.
+2\. Select the __promotions-manager-all-aws-dev__ blueprint.
 ![03_page](/images/module2/03_page.png)

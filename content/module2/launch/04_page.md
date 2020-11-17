@@ -6,3 +6,5 @@ draft: false
 ---
 
  ![04_page](/images/module2/04_page.png)
+ 
+ Once done, click __Launch Sandbox__.
