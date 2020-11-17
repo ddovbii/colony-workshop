@@ -1,7 +1,7 @@
 ---
 title: "Deploy a Sandbox from a sample blueprint"
 date: 2020-10-16T10:35:57+03:00
-weight: 06
+weight: 08
 draft: false
 ---
 

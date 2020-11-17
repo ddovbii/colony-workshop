@@ -1,7 +1,7 @@
 ---
 title: "Connect your AWS Cloud Account to Colony"
 date: 2020-10-16T10:35:57+03:00
-weight: 04
+weight: 06
 draft: false
 ---
 
