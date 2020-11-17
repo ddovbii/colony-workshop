@@ -1,0 +1,13 @@
+---
+title: "Create an AWS account (Self-Paced)"
+date: 2020-10-16T10:35:57+03:00
+weight: 03
+draft: false
+---
+
+__Note__: If you already have an AWS account with a role that has IAM Administrator permissions you can skip this step.
+
+If you do not already have an AWS account with Administrator access: [create one now](https://aws.amazon.com/getting-started/).
+
+Once you have created an AWS account, create a IAM user with administrator access to the AWS account (attach __AdministratorAccess__ Permissions policy). [Create a new IAM user for the workshop](https://console.aws.amazon.com/iam/home?#/users$new).
+

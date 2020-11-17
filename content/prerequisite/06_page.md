@@ -13,7 +13,7 @@ In this step, you will deploy a sandbox from the sample blueprint repository. Th
  ![06_page](/images/prerequisite/select_sample_bp.png)
 3\. Provide the required parameters. In this case, only the Sandbox name is required.
  ![06_page](/images/prerequisite/set_parameters.png)
-Your new sandbox will now be automatically be deployed on AWS infrastructure. Note that this sample sandbox is deployed in AWS-eu-west region.
+Your new sandbox will now be automatically be deployed on AWS infrastructure. Note that this sample sandbox is deployed in __eu-west-1__ region.
  ![06_page](/images/prerequisite/new_sandbox.png)
 4\. Once your sandbox is deployed, you can browse the different tabs: "summary", "application", "infrastructure" to check that all the components have been deployed. you can also click on the __Quick link__ from the Summary tab that will lead you directly to the JavaSpring website UI. You will explore more of the sandbox features in Module 2.
  ![06_page](/images/prerequisite/sandbox_deployed.png)
