@@ -9,5 +9,5 @@ __Note__: If you already have an AWS account with a role that has IAM Administra
 
 If you do not already have an AWS account with Administrator access: [create one now](https://aws.amazon.com/getting-started/).
 
-Once you have created an AWS account, create a IAM user with administrator access to the AWS account (attach __AdministratorAccess__ Permissions policy). [Create a new IAM user for the workshop](https://console.aws.amazon.com/iam/home?#/users$new).
+Once you have created an AWS account, [create a IAM user](https://console.aws.amazon.com/iam/home?#/users$new) with administrator access to the AWS account (attach __AdministratorAccess__ Permissions policy). 
 
