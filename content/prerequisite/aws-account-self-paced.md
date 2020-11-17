@@ -7,7 +7,7 @@ draft: false
 
 __Note__: If you already have an AWS account with a role that has IAM Administrator permissions you can skip this step.
 
-If you do not already have an AWS account with Administrator access: [create one now](https://aws.amazon.com/getting-started/).
+1\. [Create an AWS account](https://aws.amazon.com/getting-started/).
 
-Once you have created an AWS account, [create a IAM user](https://console.aws.amazon.com/iam/home?#/users$new) with administrator access to the AWS account (attach __AdministratorAccess__ Permissions policy). 
+2\. Once you have created an AWS account, [create a IAM user](https://console.aws.amazon.com/iam/home?#/users$new) with administrator access to the AWS account (attach __AdministratorAccess__ Permissions policy). 
 
